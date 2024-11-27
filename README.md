@@ -13,8 +13,8 @@ AO TÉRMINO CRIE UM REPOSITORIO REMOTO COM NOME JPA:
 
 PARA ENTREGA DENTRO DO README.MD INSIRA AS SEGUINTES IMAGENS:
 
-![Print](assets/banco.png)
-![Print](assets/inserindo.png)
+![Print](assets/banco.jpeg)
+![Print](assets/inserindo.jpeg)
 
 ## 🛠️ Construído com
 
